@@ -1,1 +1,1 @@
-print("Olá,mundo")
+print(f"Olá,mundo")
